@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dilo</title>
+        <item>
+            <title>0.13.0</title>
+            <pubDate>Tue, 27 Oct 2026 11:21:53 +0100</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 0.13.0</h2>
+<p>The first public release of Dilo. Signed and notarized by Apple.</p>
+<ul>
+  <li><strong>Dilo Basic is free:</strong> dictate with the fn key in any app, in 19 languages, fully on your Mac.</li>
+  <li><strong>Dilo Pro:</strong> meetings without bots, voice notes, Ask your meetings, AI cleanup, ten voice commands, the built-in local AI model and export. One payment, every future version included. Paste your key in Settings &gt; License.</li>
+  <li><strong>Automatic updates:</strong> Dilo now checks for new versions on its own and never interrupts a dictation or a meeting to install. You can also use Check for Updates in the menu bar icon.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v0.13.0/Dilo-0.13.0.dmg" length="40274925" type="application/octet-stream" sparkle:edSignature="7OUq+ZijJpLE27JBgKGIUzE1Q0zmaR1VLkh0MIaujJzJlmOgheKSOHuzf8NATiEc9YIaEDx4B1HrEVWpHcKxBA=="/>
+        </item>
+    </channel>
+</rss>
