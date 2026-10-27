@@ -3,6 +3,22 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 27 Oct 2026 13:37:31 +0100</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.0.0</h2>
+<p>The first stable release of Dilo.</p>
+<p>Meeting apps and browsers in Settings › Meetings now show their icon even when the app is not installed.</p>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.0.0/Dilo-1.0.0.dmg" length="40323893" type="application/octet-stream" sparkle:edSignature="vX8UfBY0zjNdljgwQEt8VJyKsdSJVtcqAZGFMCGitIuqjVFXKaeLvPt827pUpbfKznbgBanDBU3JTSAT5zmeCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.0.0/Dilo35-34.delta" sparkle:deltaFrom="34" length="1534822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t44JFUH9VOxZwQ6zspnj9CEblBqk4fE5FM3JTM64RkW7FuV+8TxJ0zNKjrRSRVvN/4DQdytCM418rJkwxnWADw=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.0.0/Dilo35-33.delta" sparkle:deltaFrom="33" length="1530794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YOFwYPVRZQc+9IKEM31I7yDql60alHa7op0QT8FVgVG1pf8E9TIbz7hrfJ81C1xzz7dUiOal/EpwcDmbbVBvBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.13.1</title>
             <pubDate>Tue, 27 Oct 2026 11:26:05 +0100</pubDate>
             <sparkle:version>34</sparkle:version>
