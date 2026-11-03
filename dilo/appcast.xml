@@ -3,6 +3,25 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 03 Nov 2026 12:30:36 +0100</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.1.0</h2>
+<ul>
+  <li><strong>Pin key moments in meetings:</strong> press fn+P, or the pin button in the meeting panel, whenever something important is said. The lines around each pin are highlighted in the transcript (and in Obsidian), and the summary opens with a new Key moments section.</li>
+  <li>Remove a pin from the transcript margin or from Key moments. Exports mark pinned lines with ★.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.1.0/Dilo-1.1.0.dmg" length="40500485" type="application/octet-stream" sparkle:edSignature="7skD2e26+907qRxpbJchTzpC1eYPeaholTgtbRVOVvsf+xxpAS9FdUubEr/ogSnAWus7CQl8ZM36fmN47cOnAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.1.0/Dilo36-35.delta" sparkle:deltaFrom="35" length="3048854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+NrZSfGIpaxX+7LBV18ZiRjmKTLeb+qXpJczyRSJQxeuFp51NAmePVmFmLKbTeWGmvEwygrA95VnAXPiMpRVAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.1.0/Dilo36-34.delta" sparkle:deltaFrom="34" length="3150102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U6KSuGDuRl/4ldi2uqQ2IfOdY1ZTFbMMLlPwo8PSsBcx40BMBHVd49kYdDjS2ITuZGeHIYXQYNUdaj1cHBCIDg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.1.0/Dilo36-33.delta" sparkle:deltaFrom="33" length="3140302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SNn0GS+nPvcBaW8ctcBczoK1EQTZt/o1yRE1WZq9e5EzE0ZB6jxi/YXSW+a6jzv8ZIEevM1aHwB3uP1IgmxfBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 27 Oct 2026 13:37:31 +0100</pubDate>
             <sparkle:version>35</sparkle:version>
