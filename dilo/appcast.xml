@@ -3,6 +3,30 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Sat, 07 Nov 2026 15:03:43 +0000</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.3.0</h2>
+<ul>
+  <li><strong>14 days of Pro, free:</strong> every new install, and every Basic user updating to this version, gets 14 days of everything in Pro. No card and no account. A small chip in the panel shows how many days are left.</li>
+  <li><strong>More in Basic, for good:</strong> voice notes (record and transcribe), export to Markdown and plain text, and the meeting prompt are now part of the free version. Everything you record during the trial stays readable and searchable.</li>
+  <li><strong>7 more days if you need them:</strong> if the trial ends before you recorded a meeting, you can extend it once for 7 days, from Settings &gt; License or from the next meeting prompt.</li>
+  <li>New Settings &gt; License: trial status, what Pro adds, and buy or paste your key in two steps. Dilo Pro is 49 € once, for up to 3 Macs, with lifetime updates.</li>
+  <li>If you already have Pro, nothing changes.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.3.0/Dilo-1.3.0.dmg" length="41200784" type="application/octet-stream" sparkle:edSignature="hwEmDY0vVeRcpKL7Y6pRrE8hOezt443Ho79oQ+5kAiKxhcGpywEVkd9FJJqz/AOG1aw+7XLhO3ZeLgpjmC8qBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.3.0/Dilo38-37.delta" sparkle:deltaFrom="37" length="3292822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3qBA09dJhv5SE32v0N5QHeqdgeacGT9rKxaJBto7BLcWhtjrurHZCMFnsoza74kWLyNQ8mxdjSu/c7nmtLLMDA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.3.0/Dilo38-36.delta" sparkle:deltaFrom="36" length="3419902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HQ/oR2/+OZq2qKVKiMdgJHCaYv0wtkgqRtCwyXH4Y96OVP8lBk3G8etcATQ58RI1EZFD8enL7tU+ZW13GpqcDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.3.0/Dilo38-35.delta" sparkle:deltaFrom="35" length="3970922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+XGKCDm0TUWom+5C9ykBi7YssxjoyrB4Qmn4FwTpJ4VzVro/AvygtXk19k882dexk0hgITYkYtAceOqpskJLCA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.3.0/Dilo38-34.delta" sparkle:deltaFrom="34" length="4037046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Jr8xiQjwa8QYjbkfG2AybXMyc0A5bWseNEeclWwUXfJ8NgnHdk9DWaV5GscN6Qp/K8KOkDap995M15bc62o3Cw=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.3.0/Dilo38-33.delta" sparkle:deltaFrom="33" length="4036354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TlvkSLNzaEpnTEPlVfAyWDK24Dw4wwySLSRmXGIn8cr312+rXA5oG66c1ndJgKGrMdHmxgh8v2zffwN5TYU2Cw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Thu, 05 Nov 2026 15:57:24 +0100</pubDate>
             <sparkle:version>37</sparkle:version>
