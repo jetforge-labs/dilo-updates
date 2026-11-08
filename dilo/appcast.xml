@@ -3,6 +3,26 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Sun, 08 Nov 2026 09:40:36 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.4.1</h2>
+<ul>
+  <li><strong>Vault:</strong> on wide windows, the text of dictations, summaries, transcripts and voice notes now lines up on the left under the header, instead of floating in the middle.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.4.1/Dilo-1.4.1.dmg" length="41554138" type="application/octet-stream" sparkle:edSignature="kFuO8Zka4wegk0cvA0wPyIwdDYhv0Hty9tBzu/PpnSuOehYHuQ0b+i4SOMZTc1PyT+SGhqgfvKD/72Vqxu5ODw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.4.1/Dilo40-39.delta" sparkle:deltaFrom="39" length="1287242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OTMC8JwuU/hKjnzK+7M4DMHRa4uJCUD5l9KiMYKDieNI46HfS8ByjspQ7A5FPJljulDZ08JYKB7Wubf6oFOOAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.4.1/Dilo40-38.delta" sparkle:deltaFrom="38" length="3545242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="seZH5X6KZShDQC7FMjeL+/QkUttJXSoEaKOP3Tf4+mq3TjEKO6gbxn6a2FYtJM6oVZzBUtemavLZ5unFcvomCg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.4.1/Dilo40-37.delta" sparkle:deltaFrom="37" length="4060266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SPgvLifUmzgqJo2r8MFEDl4nHnd1lYiwg++m36r7kepH3NjAx4bexjvpVo3SSvzAP68fVGGYgvtsxEO4xfT3Cg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.4.1/Dilo40-36.delta" sparkle:deltaFrom="36" length="4161366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wTYJCjf4H/pIRRSKkk0pDwdXMtpo/UtdO5L1P3kwxiWajYYjVJC1qG1AJ7vJryUnmFwZYMZQqfmjmJvDmU60Ag=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.4.1/Dilo40-35.delta" sparkle:deltaFrom="35" length="4648026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TVJL+elSALcG7GZSoMvu42vXGIznP1RY8RXLdgKJT6DezBqZrNkUwqViBKeMgMlD0pnBqixWsQHNT2vVJJkODQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Sat, 07 Nov 2026 20:53:30 +0000</pubDate>
             <sparkle:version>39</sparkle:version>
