@@ -3,6 +3,29 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Tue, 10 Nov 2026 20:18:50 +0000</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.5.0</h2>
+<ul>
+  <li><strong>Analysis templates:</strong> read any meeting your way. Class, Interview, One-on-one and Talk come built in, and you can write your own in Settings &gt; Templates (up to five sections each, as a paragraph, a list or a list with the minute it was said). Each analysis opens as its own tab next to Summary and Transcript, also on meetings you recorded before.</li>
+  <li><strong>New tab bar:</strong> Summary, Transcript and your analyses sit left aligned under the header, with a + to add one. &#8984;1 and &#8984;2 work as before, &#8984;3 to &#8984;9 jump to the analyses and &#8679;&#8984;] and &#8679;&#8984;[ move between tabs. The actions of each tab (Edit, Regenerate) now sit right above its content.</li>
+  <li>Analyses are separate files next to the meeting, so the meeting file is never touched. You can edit them in Dilo or in Obsidian, regenerate them, and they follow when you rename a voice.</li>
+  <li>With a Basic license you can still read and edit the analyses you made during the trial. Making new ones is part of Dilo Pro.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.5.0/Dilo-1.5.0.dmg" length="42605119" type="application/octet-stream" sparkle:edSignature="POAUjvEblIXChPwnQ/EazADM3CqiiC7/mfWR4ECFDT/QxlRD+XqxOorQXE1jqwpyWcwiwJbUfT5FPO6o231zBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.5.0/Dilo41-40.delta" sparkle:deltaFrom="40" length="3670582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CPWqwhOIX5wE0h9TYojX47iksZ3lHw2YOPpUlMtuFrnpR3SpGv3BYZGl4FHG1Bu5hBCdeLjsVqcZPoFc/Q0iAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.5.0/Dilo41-39.delta" sparkle:deltaFrom="39" length="3717454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LKuPyGMdNtZwamY73XoMSc3rZ2wrJEAAij+fGZo7R2eYICyfbNuYbBNfmaws5D6TUGUxqNN3+0anDxzMEq9XBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.5.0/Dilo41-38.delta" sparkle:deltaFrom="38" length="4413298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O36BXi7LUUHOC5jVzxMm/J457Zsvu9LiKjONQ1QnyV1Hw/uDDDml9MnUNhMbjrh2kshYfuoCZc+c7j5lHl+ZBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.5.0/Dilo41-37.delta" sparkle:deltaFrom="37" length="4920262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j8nF98hq9sCyhBwcP9uZ5ga89Xhh77nRaUr8wBBQHxARmglzxSqnjqD/N1T8/96B1F4309uuthgOfsN39VI6Dg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.5.0/Dilo41-36.delta" sparkle:deltaFrom="36" length="4961766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LS3B+akFIZvPvmRHnKl0VrGTm9I+s8koJBwmJ2XlYbxW8VJts/KsWbNIf8vEd5IDApE0v/Ffa1u7zqZbg8uUBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.1</title>
             <pubDate>Sun, 08 Nov 2026 09:40:36 +0000</pubDate>
             <sparkle:version>40</sparkle:version>
