@@ -3,6 +3,30 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Wed, 11 Nov 2026 09:14:12 +0000</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.6.1</h2>
+<ul>
+  <li><strong>Stats in view:</strong> when you unfold the stats at the bottom of the panel, it now scrolls down by itself so the whole chart is visible (no animation with Reduce Motion).</li>
+  <li><strong>Quieter scroll bars:</strong> in the panel, the Vault and Settings scroll bars are now thinner and take less room.</li>
+  <li><strong>Open Vault, always in sight:</strong> the button now sits on the right of the Recent header, so you no longer have to scroll to the end of the list. When you type to search it becomes "Search Vault" and the header counts the results.</li>
+  <li><strong>More commands, in its place:</strong> the "..." button moved to the Commands header, so it never takes a row of its own below your commands. With no commands yet, the header offers "Create command".</li>
+  <li>The shortcut keys in the panel footer no longer wrap onto two lines.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.1/Dilo-1.6.1.dmg" length="42759749" type="application/octet-stream" sparkle:edSignature="rhc3qraE+NQmuI8c4ne8OigwPI7ddyyFaa/PKdbKO/+sPKBdUqaT2iiLbMzoJBPWASKjHi9OuAfctceQ4AL0AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.1/Dilo43-42.delta" sparkle:deltaFrom="42" length="2473146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="26Bsl+HVm2pvr+Jb0fPJGD8XOdx/jNFawCKEN5VSPdCa8BxlFPsfxQ8zoLKKX3Tfgk7qVeDFNHD7ewkd9rBGBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.1/Dilo43-41.delta" sparkle:deltaFrom="41" length="3340534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YQ8htoCLHAsrk2GrzRfXXzn5EI2dcdNNov4TTmMz6fYtwUdb6RzxPDxy7kty4KSGrVw1J3dPag4CDmRPf6QQAw=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.1/Dilo43-40.delta" sparkle:deltaFrom="40" length="4314442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x48fZAZLNgObwKZ9awIL4/JJqMXn92t30hps1tmPqwNLm44AqkP/c738cPWmTnrLjDZHn6nrqGYW7IPy8oI1Bg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.1/Dilo43-39.delta" sparkle:deltaFrom="39" length="4347334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XULp0FEN/a4xThjmvtOYr/k2DY1FcxURiiSxGd1dbQ1jbPTWorLNrxljus/CzS+PkZSaAjEhYRntDeeCaixXCg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.1/Dilo43-38.delta" sparkle:deltaFrom="38" length="4797634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="moLYf54sLwdaghbnmWiTk69JbzKH238Tj/GrbkCMOMyu6tqRGtHCsUN6OAKosdkNgdOL66w9paQIXT15mAakCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Wed, 11 Nov 2026 08:16:18 +0000</pubDate>
             <sparkle:version>42</sparkle:version>
