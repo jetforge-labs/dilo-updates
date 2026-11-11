@@ -3,6 +3,26 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.6.2</title>
+            <pubDate>Wed, 11 Nov 2026 14:03:59 +0000</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.6.2</h2>
+<ul>
+  <li><strong>Remote voices with AirPods and other Bluetooth headsets:</strong> when your headset's microphone was in use, the other participants of a meeting came out as one-word lines. Dilo now follows the real sample rate of the system audio, also when it changes mid-meeting, so their sentences come out whole.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.2/Dilo-1.6.2.dmg" length="42842555" type="application/octet-stream" sparkle:edSignature="yA5wmSCwb6BeZt3UXTwH1L0K+CLVFjZPdhC3lZELRhmAK2jsgviOzTHGvjPXJc0fhVCMrvWfvcAap4KUtJ3WCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.2/Dilo44-43.delta" sparkle:deltaFrom="43" length="2606922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="doEMdUjcb2d3GTVM8AXWTVvANo0ZpIm5guKoDlo0VOeFan1QHNvwmwXaB1ijFTPiYmSgqGxJve1VDN4eY6KCDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.2/Dilo44-42.delta" sparkle:deltaFrom="42" length="2880578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AHsC3Knwz8qlNx+lrRBpr1Gn++CtVWQCcqX6csT22Ln5C2DwLiYCB3kFxrnNItxd03SvdTkJwy+9nhHhNxjiBg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.2/Dilo44-41.delta" sparkle:deltaFrom="41" length="3504642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4/j8uIguFh+TSMxPOf5BPLQGswjoEd89AKSjP+XE1XzUN/t8vItaPZp3ER/jmW0ZcWD6yqc0pMFqO+XufZo1BA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.2/Dilo44-40.delta" sparkle:deltaFrom="40" length="4390926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wPlUbPUfO2PhlRcAZewhnJJzkyHzr2rlZLEo7APw81EatXLWnM5G+UJ8+zaypQncKC5zutN4sZ6lhcnLsLRzAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.2/Dilo44-39.delta" sparkle:deltaFrom="39" length="4432214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AYwU/B0bvRoSABfFazTZDPCZOHGtmhhFec2f1yq/fbHyG96gyqbwG9Zbp9g9KXRmw22neo8oJyBnEXgIaZj1Cg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.1</title>
             <pubDate>Wed, 11 Nov 2026 09:14:12 +0000</pubDate>
             <sparkle:version>43</sparkle:version>
