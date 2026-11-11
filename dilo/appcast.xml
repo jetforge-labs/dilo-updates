@@ -3,6 +3,26 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.6.3</title>
+            <pubDate>Wed, 11 Nov 2026 16:51:39 +0000</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.6.3</h2>
+<ul>
+  <li><strong>Settings and Vault in the Dock:</strong> while either window is open, Dilo shows its icon in the Dock and in Cmd+Tab, so you can get back to it after clicking another app. Clicking the Dock icon brings the open window to the front. The icon goes away when you close them.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.3/Dilo-1.6.3.dmg" length="42849816" type="application/octet-stream" sparkle:edSignature="OmO7ZVXtgmeR9iYo4jQEIGOl7amPqp1xHNYgndRAyrrKzNedfx/VU4lDOsMFwczo1YPVueB1JqkStmxW473HBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.3/Dilo45-44.delta" sparkle:deltaFrom="44" length="1929018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1CYSJWRt4EKBz2+Ge8TNL3xFtdw8VZZVo6uHcMWpoQXwAFhURQ+hsvqrPrTq4b8MzX4tcYc8Omt5twbJOKZaBQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.3/Dilo45-43.delta" sparkle:deltaFrom="43" length="2652126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k2PHqmWE2MP68k9FTpxmdORkJ0EfiCg8ihFP4uf0nFe1o5eteMlUOh/pIC7F0amyUTrPaEdL65pJW8ZOMsihDA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.3/Dilo45-42.delta" sparkle:deltaFrom="42" length="2885662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SerXBkupjJsrm8jzk2CONugjcaNQRB1w2xB84rR70jLVzU73VIKJd4XTdaVcyvOBooRUDk8lPpMW3fw2+9PhDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.3/Dilo45-41.delta" sparkle:deltaFrom="41" length="3550314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UMWPBPzDwCWjfwm8+P7bZcx4FwPKi+NLzsARDJzWK94+3Rnt62I0PYB8wvSG4Ojj8qUi258sYWx43KEgZS6hDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.3/Dilo45-40.delta" sparkle:deltaFrom="40" length="4420822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+9PvJtqjnMne+RDIW8B8TSKLVMKZ1m4d6h405F7XrXk2zqZoOgjI2cXcYBQfttmwzghQmM4TaCeK0iOY7+IWAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.2</title>
             <pubDate>Wed, 11 Nov 2026 14:03:59 +0000</pubDate>
             <sparkle:version>44</sparkle:version>
