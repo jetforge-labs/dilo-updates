@@ -3,6 +3,31 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Wed, 11 Nov 2026 08:16:18 +0000</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.6.0</h2>
+<ul>
+  <li><strong>A calmer panel:</strong> at rest the panel is just the system material, with a single main action: Dictate. Navy now means something: it fills the header while Dilo is listening, transcribing, recording a meeting or a note, and when it confirms "Pasted in Slack". The header always has the same height, so nothing below it moves.</li>
+  <li><strong>Better order:</strong> Commands, Recent, then your stats at the bottom. Meeting and Voice note keep their color in the icon and turn into Stop buttons while they record. While Dilo listens, the rest of the panel waits in a readable tone instead of fading out.</li>
+  <li><strong>Settings:</strong> General now has four titled groups (Interface, While dictating, Startup and updates, Help and data) and shows the state of your permissions on top. Dictation, Meetings and AI engine have titled groups too, apps and browsers sit in two columns, and tabs fade into each other.</li>
+  <li><strong>Vault:</strong> the title of a meeting, note or dictation is larger, tabs are taller with a line that slides to the selected one, Edit and Voices look like buttons, and Regenerate moved to the more actions menu. Timestamps are monospaced links to the transcript. Recording indicators are drawn dots that pulse.</li>
+  <li><strong>Sounds and touch:</strong> Dilo has its own three short sounds (start, done, cancel or error) and stays silent during meetings. On a trackpad you feel a tap when you press Dictate in the panel, mark a moment, or drop a command in its new place. The menu bar icon flashes green when the text lands.</li>
+  <li>One type scale across the whole app, a spacing grid of 4, a Globe key written as a name with its symbol, and the same verb for the same thing: Finish pastes a dictation, Stop closes a recording.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.0/Dilo-1.6.0.dmg" length="42736307" type="application/octet-stream" sparkle:edSignature="oJjO6UaEAz56WykK9V8BhImmBvv8i8aI0vZ9/vC209LMqa5P0/hCqdRitqhyNY+XgsNeQ2+c62vZe2XHrzbrAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.0/Dilo42-41.delta" sparkle:deltaFrom="41" length="3126586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2AL44ExBSnx77eYj9a9lcB1RhOpQ0tcjufh1Ghbxk1s7P+NzhhPKm7VtQyfIwj3Rpjds0FqHRDPwCjZx6vQcCQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.0/Dilo42-40.delta" sparkle:deltaFrom="40" length="4283622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KaQg5fgk0fKBlJVu59POoJnAFozD4uQO2vCGHxkviDBiJGrNGzmMebCfXhMWSUrLKTUtNTQRyNeIGIQNS0ffBw=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.0/Dilo42-39.delta" sparkle:deltaFrom="39" length="4216954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7wmt/lIWKmWPdChYOOCTdwBCUUOb2kYAJp/vIz9KToE6bZaclfnfFtfWk7lCMIOmAYjRr9f1aDI7VoFnl6ybDg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.0/Dilo42-38.delta" sparkle:deltaFrom="38" length="4777850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m3j76LBAau4OJqqmZKN9iy6E2FfG+RkLgt7Xerk7Ir+EpOo+XJHYunbY6Vizcc7rSbuNN2723nUElII+Ku7IAw=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.6.0/Dilo42-37.delta" sparkle:deltaFrom="37" length="5169186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="py29JiuO1+/gb6cAthBIsYF2MZdagmWFmeJujMCN4Er3pK/DLsvfkUxSe3Va+3LbFB/UGhhVQlLPDPKuiEsZAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Tue, 10 Nov 2026 20:18:50 +0000</pubDate>
             <sparkle:version>41</sparkle:version>
