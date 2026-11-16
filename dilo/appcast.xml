@@ -3,6 +3,28 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Mon, 16 Nov 2026 17:24:36 +0000</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.7.0</h2>
+<ul>
+  <li><strong>Train word:</strong> in Settings &gt; Dictation, next to <em>Edit dictionary…</em>, say a word a few times (alone, in a sentence, fast) and Dilo finds the ways the recognizer wrote it. Review them and save them as dictionary rules in one click. Real words are left unchecked so they are not rewritten by accident.</li>
+  <li><strong>Several spellings per line:</strong> the dictionary accepts <code>Finer | Fainer | fin aer =&gt; Finaer</code>. Longer matches win, and spaces inside a rule match any run of spaces.</li>
+  <li>Corrections you make in a dictation now join the line that already writes the same word, instead of adding a new one.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.7.0/Dilo-1.7.0.dmg" length="43086899" type="application/octet-stream" sparkle:edSignature="U3bEfAlfixnNodB4e0q0vn1g7iITBhILwapdYOl3qwlpxnW7rt8qJrvL9kbb865CWcSs4l3vSOoUpohALiEQDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.7.0/Dilo46-45.delta" sparkle:deltaFrom="45" length="2818974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rr65NO2+8aZHLax7LJ8RWNMhwmYh6t2Gnf9yEnvTlA3q0gIoUNtHQHC6anXxOtBX4OW1Zz5gtpNJ9okkyEjNCQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.7.0/Dilo46-44.delta" sparkle:deltaFrom="44" length="2863170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Rws26dh7GqSuIxKekIqsVuNDfCx642Mn/2kPW8Oqxemghs/Uwt9fjgclpwAyeN158JgTgTCK5dC7ifPszqYGDg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.7.0/Dilo46-43.delta" sparkle:deltaFrom="43" length="3109342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="apHVFkj/2i7eVX202vDmv4JLD0A0m5FogQf8ELASbOAl5gGIezf/c60vgdR7XqYgpxX7RLBfskzequCQC6eWDA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.7.0/Dilo46-42.delta" sparkle:deltaFrom="42" length="3268686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yVxpnGElP/FfKyaHj99KM/ShsDArgzFXdDY19+JqwJ0AovkGONApr8uVKJSm0zqtU66A1Vbx5sjckiaeHPDtAA=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.7.0/Dilo46-41.delta" sparkle:deltaFrom="41" length="3809678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZG6TALlDO1BwDmWSbv9HHTHqI4BGHPhucUmFUFETjUPO80WTKGPSLN/fcW3SKlob7RGlBU8ww/fAynqfxb4RDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.3</title>
             <pubDate>Wed, 11 Nov 2026 16:51:39 +0000</pubDate>
             <sparkle:version>45</sparkle:version>
