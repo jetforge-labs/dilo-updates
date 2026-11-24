@@ -3,6 +3,26 @@
     <channel>
         <title>Dilo</title>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Tue, 24 Nov 2026 17:58:09 +0000</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dilo 1.8.0</h2>
+<ul>
+  <li><strong>Your own cleanup instructions:</strong> in Settings &gt; Dictation, write up to 200 characters of style preferences (numbers as digits, punctuation, capitalization) and Dilo adds them to the AI cleanup. The built-in rules always take priority, and changes apply from the next dictation without restarting.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.8.0/Dilo-1.8.0.dmg" length="43101608" type="application/octet-stream" sparkle:edSignature="eFvwQD5BDyWNpwwblKnahQntaJ6qALeIZfSBaharJY5HjliUuMq94PEyOoAZwTKuNi/HVNvWyIXMXaUqFYHvBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.8.0/Dilo47-46.delta" sparkle:deltaFrom="46" length="2138918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FahfiUg3ltR2Nl+I+aYnRU/omZsva4NT5rCiE7YFfTp0Wh4nWF9WMn8rbS1R/GO3oE1dTQlP3ArBSNGEi08hCg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.8.0/Dilo47-45.delta" sparkle:deltaFrom="45" length="2855826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zSU7/VU4P6kgyQYX7LDVZiJYdT03e+jWombq0OlzJ9eI214MDzN3xKthJORpBJzt9Uii+Iw+z3ntvcjgfHSwBQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.8.0/Dilo47-44.delta" sparkle:deltaFrom="44" length="2926874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xH/ldO0TottlHk1glWo3VSC82yf+DLpp5oRELp+bV6viebWmELYkznZVbKbilI4hgSJ57pHbaST1zjHD9qlpAw=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.8.0/Dilo47-43.delta" sparkle:deltaFrom="43" length="3163926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K8bQRN2P4Nuxm0r5XQ9AV1+96iKrGxj5hcYLMXj8qjI1UDgW+VRMCns63WT83guk+b+8k5+XK2GGN54bWm40Cg=="/>
+                <enclosure url="https://github.com/jetforge-labs/dilo-updates/releases/download/v1.8.0/Dilo47-42.delta" sparkle:deltaFrom="42" length="3328050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QidY1/nzL51F3q1z0OB0CWpbUCn2IhNUAqT5Qa8JmC0XqWhFdh6LN4S4OHTRaYu7QQ4kU7GIfY7L/3o5w02HDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Mon, 16 Nov 2026 17:24:36 +0000</pubDate>
             <sparkle:version>46</sparkle:version>
